@@ -1,2 +1,2 @@
-# Beginner-s-level---selenium-easy-and-homework
+# Beginner
 Beginner`s level auto
